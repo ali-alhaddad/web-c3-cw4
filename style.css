@@ -1,0 +1,34 @@
+.container {
+  background-color: aqua;
+
+  width: 400px;
+  height: 200px;
+  margin: 10px;
+  padding: 10px;
+}
+.card {
+  background-color: red;
+  width: 400px;
+  height: 200px;
+  box-shadow: 10px 10px 5px 12px lightblue;
+  /*border: 4px solid black;*/
+}
+.card2 {
+  background-color: yellow;
+  width: 400px;
+  height: 200px;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 10px 10px 5px 12px lightblue;
+  border-style: dotted;
+  border-style: dashed;
+  border-style: solid;
+  border-style: double;
+  border-style: groove;
+  border-style: ridge;
+  border-style: inset;
+  border-style: outset;
+  border-style: none;
+  border-style: hidden;
+  border-style: dotted dashed solid double;
+}
